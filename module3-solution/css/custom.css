@@ -15,6 +15,11 @@
     padding-right: 15px;
 
 }
+.row>div
+{
+    margin-right: 15px;
+}
+
 }
 #footer_panel p
 {
