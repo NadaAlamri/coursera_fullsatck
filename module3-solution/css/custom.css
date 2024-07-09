@@ -1,0 +1,22 @@
+@media (max-width: 767px) {
+    .navbar-collapse {
+    margin-bottom: -16px;
+         margin-left: -15px;
+    margin-right: -15px;
+ 
+
+}
+.navbar-nav>.nav-item>.nav-link {
+    background-color: indianred;
+  border:1px solid #e2e2e2;
+    border-color: white;
+ 
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+}
+#footer_panel p
+{
+   margin-bottom: 0; /* removes default <p> tag margin from the bottom */
+}
