@@ -7,7 +7,7 @@
 	function LunchCheckController($scope)
 	{
 		$scope.text="";
-		$scope.msg ;
+		$scope.msg ="";
 		$scope.color ;
 		$scope.bcolor ;
 		$scope.border="solid" ;
